@@ -5,8 +5,8 @@
 layout: home
 author_profile: true
 ---
-## Your Full Name
-### Your Professional Title/Role
+## Victor Irungu
+### Cyber Security 
 
 **Phone:** [Your Phone Number] | **Email:** [Your Email Address] | **LinkedIn:** [Your LinkedIn Profile URL (Optional)] | **Portfolio/GitHub:** [Your Portfolio or GitHub URL (Optional)] | [Your City, Country]
 
