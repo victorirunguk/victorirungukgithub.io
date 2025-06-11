@@ -8,7 +8,7 @@ author_profile: true
 ## 
 ### Cyber Security Analyst
 
-**Phone:** [Your Phone Number] | **Email:** [Your Email Address] | **LinkedIn:** [Your LinkedIn Profile URL (Optional)] | **Portfolio/GitHub:** [Your Portfolio or GitHub URL (Optional)] | [Your City, Country]
+**Phone:** [+254 726607407] | **Email:** [victorirungu@gmail.com] | **LinkedIn:** [www.linkedin.com/in/victorirunguk (Optional)] | **Portfolio/GitHub:** [http://github.com/victorirunguk (Optional)] | [Nairobi, Kenya]
 
 ---
 
