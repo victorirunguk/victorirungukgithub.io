@@ -34,22 +34,23 @@ Highly motivated and results-driven Cybersecurity Professional with 2 years of e
 
 ### **&#x1F393; Education**
 
+**Cyber Security Certification** | **
+Cyber Shujaa | Nairobi, Kenya
+**On going**
+
 **Diploma in IT** | **
 JKUAT | Kiambu, Kenya
-**June 2016** (or Expected Graduation Date)
-* **Key Courses:** [e.g., Data Structures & Algorithms, Machine Learning, Cloud Computing, Software Engineering Principles]
+**June 2016** 
 
 ---
 
 ### **&#x1F6E0; Technical Skills**
 
-* **Programming Languages:** **Python**, **Java**, JavaScript, C++, Go, Ruby, Swift, TypeScript
-* **Web Technologies:** **React**, Angular, Vue.js, Node.js, Django, Flask, Spring Boot, HTML5, CSS3, RESTful APIs, GraphQL
-* **Databases:** **SQL**, **PostgreSQL**, MySQL, MongoDB, Redis, Cassandra
-* **Cloud Platforms:** **AWS** (EC2, S3, Lambda, RDS), Microsoft Azure, Google Cloud Platform (GCP)
-* **Tools & Methodologies:** **Git**, Docker, Kubernetes, Jenkins, Jira, Confluence, Agile, Scrum, CI/CD, Terraform, Figma, VS Code
+* **Programming Languages:** **Python**, **Java**
+* **Web Technologies:** **React**, Flask, HTML5, CSS3.
+* **Databases:** **SQL**, **PostgreSQL**, MySQL, 
 * **Operating Systems:** Windows, macOS, Linux (Ubuntu, Fedora, CentOS)
-* **Data & AI:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, SQL for Data Analysis
+* **Data & AI:** NumPy, Pandas, SQL for Data Analysis
 
 ---
 
