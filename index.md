@@ -38,9 +38,9 @@ Highly motivated and results-driven Cybersecurity Professional with 2 years of e
 
 ### **&#x1F393; Education**
 
-**[Your Degree Name]** | *[Your Major or Field of Study]*
-[University Name] | [City, Country]
-**[Graduation Date]** (or Expected Graduation Date)
+**Diploma in IT** | **
+JKUAT | Kiambu, Kenya
+**June 2016** (or Expected Graduation Date)
 * **Key Courses:** [e.g., Data Structures & Algorithms, Machine Learning, Cloud Computing, Software Engineering Principles]
 * **Academic Honors:** [e.g., Summa Cum Laude, Dean's List (all semesters)]
 * **Thesis/Capstone:** [Optional: Brief description of your major project, e.g., "Developed an automated fraud detection system using neural networks."]
