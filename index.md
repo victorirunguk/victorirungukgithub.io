@@ -26,13 +26,9 @@ Highly motivated and results-driven Cybersecurity Professional with 2 years of e
 **May 2022 – Present**
 * **Achievemnt 1** Spearheaded a team of four in troubleshooting computers and maintenance. 
 * **Achievement 2** Installation of computer hardware and software. 
-* **[Action Verb]** [Key responsibility/achievement 3, e.g., "Collaborated closely with stakeholders to gather requirements and define project scope, leading to a **15% improvement** in project alignment."]
-* **[Action Verb]** [Relevant skill/tool used, e.g., "Implemented robust **CI/CD pipelines** using **Jenkins** and **Docker**, accelerating deployment cycles by **25%**."]
 
-**[Previous Job Title]** | *[Company Name]* | [City, Country]
-**[Start Date] – [End Date]**
-* **[Action Verb]** [Quantifiable achievement 1, e.g., "Developed and deployed **scalable microservices** using **Python** and **Flask**, supporting over **10,000 daily active users**."]
-* **[Action Verb]** [Key responsibility/achievement 2, e.g., "Conducted thorough code reviews and mentored junior developers, improving code quality by **10%**."]
+**Data Entry Clerk** | *Judiciary Millimani Law Courts* | Nairobi, Kenya
+**December 2020 – May 2021**
 
 ---
 
@@ -42,8 +38,6 @@ Highly motivated and results-driven Cybersecurity Professional with 2 years of e
 JKUAT | Kiambu, Kenya
 **June 2016** (or Expected Graduation Date)
 * **Key Courses:** [e.g., Data Structures & Algorithms, Machine Learning, Cloud Computing, Software Engineering Principles]
-* **Academic Honors:** [e.g., Summa Cum Laude, Dean's List (all semesters)]
-* **Thesis/Capstone:** [Optional: Brief description of your major project, e.g., "Developed an automated fraud detection system using neural networks."]
 
 ---
 
