@@ -5,7 +5,7 @@
 layout: home
 author_profile: true
 ---
-## VictornIrungu
+## Victor Irungu
 ### Cyber Security Analyst
 
 **Phone:** +254 726607407| **Email:** victorirungu@gmail.com | **LinkedIn:** www.linkedin.com/in/victorirunguk | 
