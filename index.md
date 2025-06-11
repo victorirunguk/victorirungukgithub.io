@@ -16,7 +16,7 @@ author_profile: true
 
 ### **&#x1F4BC; Professional Summary**
 
-Highly motivated and results-driven Cybersecurity Professional with [X] years of experience in developing, implementing, and managing robust security infrastructures. 
+Highly motivated and results-driven Cybersecurity Professional with 2 years of experience in developing, implementing, and managing robust security infrastructures. 
 
 ---
 
@@ -24,8 +24,8 @@ Highly motivated and results-driven Cybersecurity Professional with [X] years of
 
 **IT** | *Evercomps Technologies* | Nairobi, Kenya
 **May 2022 – Present**
-* **[Action Verb]** [Quantifiable achievement 1, e.g., "Spearheaded the development of a new **AI-driven platform**, increasing data processing efficiency by **30%** and reducing manual intervention by **20%**."]
-* **[Action Verb]** [Key responsibility/achievement 2, e.g., "Managed cross-functional teams (5-7 members) through **Agile/Scrum** methodologies, consistently delivering projects **on time and within budget**."]
+* **Achievemnt 1** Spearheaded a team of four in troubleshooting computers and maintenance. 
+* **Achievement 2** Installation of computer hardware and software. 
 * **[Action Verb]** [Key responsibility/achievement 3, e.g., "Collaborated closely with stakeholders to gather requirements and define project scope, leading to a **15% improvement** in project alignment."]
 * **[Action Verb]** [Relevant skill/tool used, e.g., "Implemented robust **CI/CD pipelines** using **Jenkins** and **Docker**, accelerating deployment cycles by **25%**."]
 
