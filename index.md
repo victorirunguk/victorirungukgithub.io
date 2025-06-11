@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 ## 
-### Cyber Security 
+### Cyber Security Analyst
 
 **Phone:** [Your Phone Number] | **Email:** [Your Email Address] | **LinkedIn:** [Your LinkedIn Profile URL (Optional)] | **Portfolio/GitHub:** [Your Portfolio or GitHub URL (Optional)] | [Your City, Country]
 
