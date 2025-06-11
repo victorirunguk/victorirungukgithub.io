@@ -70,7 +70,7 @@ JKUAT | Kiambu, Kenya
 
 ### **&#x1F3C6; Certifications & Awards (Optional)**
 
-* **[Python (Programming and Data Science)]**, [Techcamp Kenya] ([2019])
-* **[Diploma in Christian Leadership ]**, [Hope School of Leadership] ([2020])
+* **Python (Programming and Data Science)**, Techcamp Kenya (2019)
+* **Diploma in Christian Leadership**, Hope School of Leadership (2020)
 
 ---
