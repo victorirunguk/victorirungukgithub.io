@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Victor Irungu"
-  avatar : "/assets/images/pic.jpeg"
+  avatar : "/assets/images/pic.jpg"
   bio    : "Cyber Security professional."
   links:
     - label: "Website"
