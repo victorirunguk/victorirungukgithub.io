@@ -62,10 +62,9 @@ JKUAT | Kiambu, Kenya
 * **Technologies Used:**  Developed using **Python**, **Flask Framework**, **PostgreSQL**.
 
 
-**[Project Name]** | [Link to Project GitHub Repository or Live Demo]
-* **Description:** [Briefly explain the project.]
-* **My Role:** [Your key contributions.]
-* **Technologies Used:** [List technologies.]
+**ERP System** | https://github.com/victorirunguk/erpsystem
+* **Description:** An ERP system developed for school project.
+* **Technologies Used:** Developed using **Python**, **Flask Framework**, **PostgreSQL**.
 
 ---
 
