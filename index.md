@@ -9,8 +9,8 @@ author_profile: true
 ## **Victor Irungu**
 ### *Cyber Security Analyst*
 
-**&#x260E; Phone:** +254 726607407 | **&#x2709; Email:** victorirungu@gmail.com | **&#x1F4CD; Location:** [Your City, Country]
-**&#x1F4BB; LinkedIn:** [Your LinkedIn Profile URL (Optional)] | **&#x1F5B2; Portfolio/GitHub:** [Your Portfolio or GitHub URL (Optional)]
+**&#x260E; Phone:** +254 726607407 | **&#x2709; Email:** victorirungu@gmail.com | **&#x1F4CD; Location:** Nairobi, Kenya
+**&#x1F4BB; LinkedIn:** linkedin.com/in/victorirunguk | **&#x1F5B2; Portfolio/GitHub:** https://github.com/victorirunguk
 
 ---
 
