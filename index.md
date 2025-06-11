@@ -16,7 +16,7 @@ author_profile: true
 
 ### **&#x1F4BC; Professional Summary**
 
-A results-driven and highly motivated [Your Professional Title/Role] with **[X years]** of experience in [Your Industry/Field]. Proven ability to [Key Skill 1, e.g., "drive innovation"], [Key Skill 2, e.g., "lead complex projects"], and [Key Skill 3, e.g., "optimize operational efficiency"]. Passionate about [Your Passion/Goal, e.g., "leveraging technology to solve real-world problems and contribute to organizational growth"].
+Highly motivated and results-driven Cybersecurity Professional with [X] years of experience in developing, implementing, and managing robust security infrastructures. 
 
 ---
 
