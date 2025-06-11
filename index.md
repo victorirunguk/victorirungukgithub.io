@@ -6,10 +6,10 @@ layout: home
 author_profile: true
 ---
 ---
-## **[Your Full Name]**
-### *[Your Professional Title/Role]*
+## **Victor Irungu**
+### *Cyber Security Analyst*
 
-**&#x260E; Phone:** [Your Phone Number] | **&#x2709; Email:** [Your Email Address] | **&#x1F4CD; Location:** [Your City, Country]
+**&#x260E; Phone:** +254 726607407 | **&#x2709; Email:** victorirungu@gmail.com | **&#x1F4CD; Location:** [Your City, Country]
 **&#x1F4BB; LinkedIn:** [Your LinkedIn Profile URL (Optional)] | **&#x1F5B2; Portfolio/GitHub:** [Your Portfolio or GitHub URL (Optional)]
 
 ---
