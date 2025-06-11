@@ -8,7 +8,11 @@ author_profile: true
 ## 
 ### Cyber Security Analyst
 
-**Phone:** [+254 726607407] | **Email:** [victorirungu@gmail.com] | **LinkedIn:** [www.linkedin.com/in/victorirunguk] | **Portfolio/GitHub:** [http://github.com/victorirunguk] | [Nairobi, Kenya]
+**Phone:** [+254 726607407] | 
+**Email:** [victorirungu@gmail.com] | 
+**LinkedIn:** [www.linkedin.com/in/victorirunguk] | 
+**Portfolio/GitHub:** [http://github.com/victorirunguk] |
+[Nairobi, Kenya]
 
 ---
 
