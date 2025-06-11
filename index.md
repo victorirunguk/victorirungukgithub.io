@@ -54,7 +54,7 @@ JKUAT | Kiambu, Kenya
 
 ---
 
-### **&#x1F4C1; Select Projects (Optional - Highly Recommended for Tech/Creative Roles)**
+### **&#x1F4C1; Select Projects **
 
 **[Divine Hospital System]** | https://github.com/victorirunguk/divine
 * **Description:** A Hospital management system for managing patient records from point of entry to the lab and ginving medication in the pharmacy.
@@ -68,7 +68,7 @@ JKUAT | Kiambu, Kenya
 
 ---
 
-### **&#x1F3C6; Certifications & Awards (Optional)**
+### **&#x1F3C6; Certifications & Awards**
 
 * **Python (Programming and Data Science)**, Techcamp Kenya (2019)
 * **Diploma in Christian Leadership**, Hope School of Leadership (2020)
