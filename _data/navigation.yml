@@ -2,7 +2,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Lab Section"
-    url: /labs/
+    url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
