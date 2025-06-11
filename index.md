@@ -9,7 +9,6 @@ author_profile: true
 
 **Email:** victorirungu@gmail.com  
 **Phone:** (254) 726607407
-
 **LinkedIn:** [linkedin.com/in/johndoe](linkedin.com/in/johndoe)  
 **GitHub:** [github.com/johndoe](https://github.com/johndoe)  
 **Portfolio:** [johndoe.dev](https://johndoe.dev)
