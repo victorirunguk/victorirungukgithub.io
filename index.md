@@ -22,8 +22,8 @@ Highly motivated and results-driven Cybersecurity Professional with [X] years of
 
 ### **&#x1F5F9; Experience**
 
-**[Most Recent Job Title]** | *[Company Name]* | [City, Country]
-**[Start Date] – Present**
+**IT** | *Evercomps Technologies* | Nairobi, Kenya
+**May 2022 – Present**
 * **[Action Verb]** [Quantifiable achievement 1, e.g., "Spearheaded the development of a new **AI-driven platform**, increasing data processing efficiency by **30%** and reducing manual intervention by **20%**."]
 * **[Action Verb]** [Key responsibility/achievement 2, e.g., "Managed cross-functional teams (5-7 members) through **Agile/Scrum** methodologies, consistently delivering projects **on time and within budget**."]
 * **[Action Verb]** [Key responsibility/achievement 3, e.g., "Collaborated closely with stakeholders to gather requirements and define project scope, leading to a **15% improvement** in project alignment."]
