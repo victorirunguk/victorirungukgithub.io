@@ -34,11 +34,11 @@ Highly motivated and results-driven Cybersecurity Professional with 2 years of e
 
 ### **&#x1F393; Education**
 
-**Cyber Security Certification** | **
+**Cyber Security Certification** | 
 Cyber Shujaa | Nairobi, Kenya
 **On going**
 
-**Diploma in IT** | **
+**Diploma in IT** | 
 JKUAT | Kiambu, Kenya
 **June 2016** 
 
@@ -56,11 +56,11 @@ JKUAT | Kiambu, Kenya
 
 ### **&#x1F4C1; Select Projects (Optional - Highly Recommended for Tech/Creative Roles)**
 
-**[Project Name]** | [Link to Project GitHub Repository or Live Demo (e.g., `github.com/your-username/project-name`)]
-* **Description:** [A concise explanation of the project's purpose and its core functionality, highlighting problem solved or value created.]
-* **My Role:** [Clearly state your specific contributions and responsibilities within the project.]
-* **Technologies Used:** [List the primary technologies and frameworks, e.g., "Developed using **Python**, **Django REST Framework**, **PostgreSQL**, and **React** frontend; deployed on **AWS EC2**."]
-* **Impact/Results:** [Quantify outcomes if possible, e.g., "Achieved a **95% accuracy rate** in predictions for X feature." or "Improved data processing time by **40%** using optimized algorithms and **Redis** caching."].
+**[Divine Hospital System]** | https://github.com/victorirunguk/divine
+* **Description:** A Hospital management system for managing patient records from point of entry to the lab and ginving medication in the pharmacy.
+* **My Role:** Lead developer
+* **Technologies Used:**  Developed using **Python**, **Flask Framework**, **PostgreSQL**.
+
 
 **[Project Name]** | [Link to Project GitHub Repository or Live Demo]
 * **Description:** [Briefly explain the project.]
