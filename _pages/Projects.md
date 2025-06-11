@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+**Divine Hospital System** | https://github.com/victorirunguk/divine
+* **Description:** A Hospital management system for managing patient records from point of entry to the lab and ginving medication in the pharmacy.
+* **My Role:** Lead developer
+* **Technologies Used:**  Developed using **Python**, **Flask Framework**, **PostgreSQL**.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+**ERP System** | https://github.com/victorirunguk/erpsystem
+* **Description:** An ERP system developed for school project.
+* **Technologies Used:** Developed using **Python**, **Flask Framework**, **PostgreSQL**.
