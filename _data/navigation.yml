@@ -1,8 +1,8 @@
 main:
   - title: "Projects"
     url: /Projects/
-  - title: "Categories"
-    url: /categories/
+  - title: "Lab Section"
+    url: /labs/
   - title: "Tags"
     url: /tags/
   - title: "About"
